@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivityMobile">
+
+
+    <item
+        android:id="@+id/type_satellite"
+        android:checkable="false"
+        android:enabled="true"
+        android:title="Satellite"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/type_hybrid"
+        android:enabled="true"
+        android:title="Hybrid"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/type_normal"
+        android:enabled="true"
+        android:title="Normal"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/type_terrain"
+        android:enabled="true"
+        android:title="Terrain"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/type_none"
+        android:enabled="true"
+        android:title="None"
+        tools:ignore="HardcodedText" />
+
+</menu>
