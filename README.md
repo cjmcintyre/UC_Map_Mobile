@@ -3,4 +3,6 @@ A major project creating a mobile application that can be used to see points of 
 
 Running the application would require you're own developer MAP API from Google.
 
-See the PDF for screenshots of the application. 
+See the PDF for [screenshots](https://github.com/cjmcintyre/UC_Map_Mobile/blob/master/Screenshots.pdf)
+ of the application. 
+
